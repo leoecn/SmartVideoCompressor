@@ -1,0 +1,7 @@
+# SmartVideoCompressor has no Python package dependencies.
+# All functionality relies on FFmpeg/FFprobe being installed and available on system PATH.
+#
+# Install FFmpeg:
+#   Windows: https://ffmpeg.org/download.html
+#   macOS:   brew install ffmpeg
+#   Linux:   sudo apt install ffmpeg
