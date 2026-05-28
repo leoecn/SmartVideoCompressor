@@ -181,7 +181,7 @@ Contributions are welcome. Please:
 
 ## Changelog
 
-### v1.0.0 (2024-01)
+### v1.0.0 (2026-05)
 - Initial release
 - HDR10 / Dolby Vision metadata preservation
 - Smart CRF auto-calculation
